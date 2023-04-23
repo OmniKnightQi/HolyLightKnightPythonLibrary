@@ -1,0 +1,16 @@
+# this is .gitignore file
+#annotation
+#ignore  all  folder   and   files  in the folder
+foldername
+
+#ignore  only  files  ,not folder
+!foldername/
+
+#ignore only the folder
+foldrename/
+
+#* : more char      ? : any one char  not /      [xxxx]:any  one
+
+#**: more  path
+
+tests
